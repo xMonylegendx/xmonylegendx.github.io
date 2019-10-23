@@ -1,0 +1,52 @@
+#about_me {
+    text-align: center;
+}
+
+p {
+    margin: 25px 50px 75px 100px;
+  }
+
+li {
+    display: inline;
+    margin: 40px
+    
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 20;
+    padding: 0;
+    text-align: center;  
+    
+
+}
+
+  h1 {
+    font-size: 70px;
+  }
+
+  li {
+    font-size: 30px;
+  }
+
+  h2  {
+    /* font-family: Georgia; */
+    font-size: 20px;
+  }
+
+  body {
+    background: lightblue url("img_tree.gif") no-repeat fixed center;
+  }
+
+  h2 {
+    -webkit-column-span: all; /* Chrome, Safari, Opera */
+    column-span: all;
+  }
+
+ p {
+    float: left
+  }
+ 
+
+
+  
